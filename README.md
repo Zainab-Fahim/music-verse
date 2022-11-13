@@ -1,3 +1,5 @@
+![hack 2](https://user-images.githubusercontent.com/81790585/201518323-f13a02d7-9183-4847-a15a-90e2a8ca9f78.gif)
+
 ## 💡Inspiration
 Today itself we think to build a project on a daily life problem i.e, I am a bit sure you guys also face. Like most of us listen to music when our mood was not good and when we are so happy. So we need to search for the song on different platforms like Spotify and others. Now by using MusicVerse, we don't need to type the song, it will play a song on the basis of facial expression. Other than that we have a chatbot and an email suggestion system. Using chatbot you can learn more about the world of music. Email Suggestion will suggest you the music according to your mood. We also have a Twilio messaging feature that will find your nearest music store.
 
